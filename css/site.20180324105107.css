@@ -101,7 +101,7 @@ html { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; 
 .fixed{background-image:url(../images/bull-static-1536.png);background-attachment:fixed;}
 }
 @media (min-width:768px) {
-.fixed{background-image:url(../images/bull-static-960-2.png);background-color:rgb(0,0,0);background-repeat:no-repeat;background-position:50% 50%;background-size:contain;background-attachment:fixed;}
+.fixed{background-image:url(../images/bull-static-960-1.png);background-color:rgb(0,0,0);background-repeat:no-repeat;background-position:50% 50%;background-size:contain;background-attachment:fixed;}
 }
 @media (min-width:768px) and (-webkit-min-device-pixel-ratio:2),(min-width:768px) and (min-resolution:192dpi) {
 .fixed{background-image:url(../images/bull-static-1920.png);background-attachment:fixed;}
